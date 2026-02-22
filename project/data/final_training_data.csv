@@ -1,0 +1,409 @@
+disease,drug,label
+hypertension,saxagliptin + metformin,0
+diabetes,repaglinide + metformin,1
+hypertension,losartan + chlorthalidone,1
+diabetes,latanoprost,0
+diabetes,pioglitazone,1
+hypertension,remogliflozin etabonate + metformin,0
+diabetes,insulin lispro + insulin lispro protamine,1
+hypertension,metformin + voglibose,0
+diabetes,atorvastatin + ramipril + metoprolol succinate,0
+diabetes,metformin + linagliptin,1
+diabetes,canagliflozin,1
+hypertension,atenolol + chlorthalidone,1
+hypertension,dapagliflozin + metformin,0
+hypertension,dapagliflozin,0
+hypertension,amlodipine + hydrochlorothiazide,1
+diabetes,cilnidipine + telmisartan,0
+hypertension,glimepiride + metformin + vitamin d,0
+diabetes,remogliflozin etabonate + metformin,1
+hypertension,repaglinide + metformin,0
+hypertension,telmisartan + ramipril,1
+hypertension,labetalol,1
+hypertension,repaglinide + voglibose,0
+hypertension,pioglitazone + glimepiride,0
+diabetes,empagliflozin + linagliptin,1
+hypertension,methyldopa,1
+hypertension,losartan + amlodipine,1
+diabetes,minoxidil,0
+diabetes,metoprolol succinate + hydrochlorothiazide,0
+hypertension,ramipril + losartan,1
+hypertension,moxonidine,1
+hypertension,insulin lispro,0
+hypertension,desmopressin,0
+diabetes,insulin lispro,1
+diabetes,amlodipine + metoprolol succinate,0
+diabetes,acarbose + metformin,1
+diabetes,insulin glargine,1
+hypertension,losartan + atenolol + hydrochlorothiazide,1
+diabetes,metformin + voglibose,1
+hypertension,prazosin,1
+hypertension,amlodipine + atenolol,1
+hypertension,metoprolol tartrate,1
+hypertension,metformin + linagliptin,0
+diabetes,pioglitazone + metformin,1
+diabetes,insulin detemir,1
+hypertension,cilnidipine,1
+hypertension,timolol + brimonidine,1
+hypertension,telmisartan + hydrochlorothiazide,1
+hypertension,nebivolol,1
+diabetes,nateglinide,1
+diabetes,enalapril + hydrochlorothiazide,0
+hypertension,empagliflozin + linagliptin,0
+diabetes,repaglinide + voglibose,1
+hypertension,metformin + linagliptin,0
+hypertension,amlodipine + chlorthalidone,1
+hypertension,gliclazide,0
+hypertension,insulin aspart,0
+hypertension,propranolol,1
+diabetes,repaglinide,1
+hypertension,insulin isophane/nph + human insulin/soluble insulin,0
+hypertension,acarbose + metformin,0
+hypertension,human insulin,0
+diabetes,saxagliptin,1
+hypertension,insulin glargine,0
+hypertension,glimepiride + metformin + voglibose,0
+hypertension,chlorthalidone,1
+diabetes,evogliptin,1
+hypertension,glipizide + metformin,0
+hypertension,glimepiride + metformin + voglibose,0
+hypertension,tafluprost,1
+hypertension,olmesartan medoxomil + amlodipine + chlorthalidone,1
+hypertension,remogliflozin etabonate + metformin,0
+diabetes,human insulin,1
+hypertension,valsartan,1
+diabetes,acarbose,1
+hypertension,amlodipine + enalapril,1
+hypertension,telmisartan + amlodipine + hydrochlorothiazide,1
+diabetes,atenolol + losartan,0
+diabetes,timolol + brimonidine,0
+hypertension,empagliflozin + linagliptin,0
+diabetes,pioglitazone + glimepiride,1
+diabetes,gliclazide + pioglitazone + metformin,1
+diabetes,ambrisentan,0
+diabetes,cilnidipine + chlorthalidone,0
+hypertension,metformin + voglibose,0
+diabetes,metoprolol succinate + ramipril,0
+hypertension,alogliptin,0
+hypertension,voglibose,0
+hypertension,insulin aspart,0
+hypertension,vildagliptin,0
+diabetes,atenolol + indapamide,0
+hypertension,remogliflozin etabonate + metformin,0
+diabetes,insulin glulisine,1
+diabetes,metoprolol succinate + hydrochlorothiazide,0
+hypertension,glimepiride,0
+hypertension,s-amlodipine + atenolol,1
+diabetes,glibenclamide,1
+hypertension,olmesartan medoxomil + indapamide,1
+hypertension,benidipine,1
+hypertension,furosemide,1
+hypertension,olmesartan medoxomil + cilnidipine,1
+hypertension,saxagliptin + metformin,0
+hypertension,canagliflozin + metformin,0
+hypertension,hydroxychloroquine,0
+hypertension,teneligliptin,0
+hypertension,minoxidil,1
+diabetes,timolol + brimonidine,0
+hypertension,bisoprolol,1
+hypertension,olmesartan medoxomil + amlodipine + hydrochlorothiazide,1
+hypertension,remogliflozin etabonate + metformin,0
+hypertension,olmesartan medoxomil + amlodipine,1
+diabetes,glipizide + metformin,1
+hypertension,insulin degludec,0
+hypertension,empagliflozin,0
+hypertension,nebivolol + cilnidipine,1
+hypertension,irbesartan,1
+diabetes,metoprolol succinate,0
+hypertension,olmesartan medoxomil + chlorthalidone,1
+diabetes,atenolol + hydrochlorothiazide,0
+diabetes,atenolol + losartan,0
+diabetes,dulaglutide,1
+hypertension,evogliptin,0
+hypertension,canagliflozin + metformin,0
+hypertension,brimonidine,1
+diabetes,amlodipine + lisinopril,0
+hypertension,metoprolol succinate + ramipril,1
+hypertension,repaglinide + metformin,0
+diabetes,alogliptin,1
+hypertension,empagliflozin + metformin,0
+hypertension,pioglitazone + metformin,0
+diabetes,insulin isophane,1
+hypertension,telmisartan + cilnidipine + chlorthalidone,1
+hypertension,hydrochlorothiazide,1
+hypertension,pioglitazone + metformin,0
+hypertension,nifedipine,1
+hypertension,atenolol + nifedipine,1
+diabetes,clonidine + hydrochlorothiazide,0
+hypertension,liraglutide + insulin degludec,0
+diabetes,empagliflozin + metformin,1
+hypertension,saroglitazar,0
+hypertension,amlodipine + indapamide,1
+hypertension,insulin aspart,0
+hypertension,azilsartan medoxomil,1
+hypertension,olmesartan medoxomil,1
+hypertension,metformin + voglibose,0
+diabetes,brimonidine,0
+hypertension,linagliptin,0
+hypertension,amlodipine + ramipril,1
+hypertension,tadalafil ip,1
+hypertension,efonidipine,1
+diabetes,linagliptin,1
+diabetes,valsartan,0
+hypertension,atenolol,1
+diabetes,miglitol,1
+diabetes,telmisartan + amlodipine + hydrochlorothiazide,0
+diabetes,travoprost,0
+diabetes,insulin degludec + insulin aspart,1
+hypertension,telmisartan + amlodipine + chlorthalidone,1
+hypertension,losartan + hydrochlorothiazide,1
+diabetes,empagliflozin,1
+diabetes,telmisartan + cilnidipine + chlorthalidone,0
+hypertension,saxagliptin + metformin,0
+hypertension,nebivolol + valsartan,1
+diabetes,voglibose + metformin + gliclazide,1
+hypertension,atorvastatin + ramipril + metoprolol succinate,1
+hypertension,repaglinide + metformin,0
+hypertension,insulin lispro,0
+hypertension,gliclazide + metformin,0
+diabetes,saxagliptin + metformin,1
+diabetes,glimepiride,1
+diabetes,olmesartan medoxomil + indapamide,0
+diabetes,insulin degludec,1
+hypertension,s-metoprolol succinate,1
+diabetes,liraglutide + insulin degludec,1
+hypertension,desmopressin,0
+hypertension,insulin isophane,0
+hypertension,bimatoprost,1
+diabetes,cilnidipine,0
+hypertension,ramipril + hydrochlorothiazide,1
+hypertension,brinzolamide + timolol,1
+hypertension,cilnidipine + telmisartan,1
+hypertension,amlodipine,1
+diabetes,amlodipine + hydrochlorothiazide,0
+hypertension,azilsartan medoxomil + chlorthalidone,1
+diabetes,glimepiride + metformin + pioglitazone,1
+diabetes,glimepiride + metformin,1
+hypertension,timolol + latanoprost,1
+hypertension,voglibose,0
+diabetes,s-amlodipine + atenolol,0
+diabetes,insulin aspart + insulin aspart protamine,1
+hypertension,timolol + travoprost,1
+diabetes,dapagliflozin + metformin,1
+diabetes,glibenclamide + metformin,1
+hypertension,remogliflozin etabonate + metformin,0
+hypertension,miglitol,0
+hypertension,perindopril erbumine + indapamide + amlodipine,1
+diabetes,insulin aspart,1
+hypertension,amlodipine + atorvastatin,1
+diabetes,desmopressin,1
+hypertension,empagliflozin,0
+hypertension,metformin,0
+diabetes,saroglitazar,1
+diabetes,metformin,1
+diabetes,gliclazide,1
+hypertension,s-amlodipine,1
+hypertension,irbesartan + hydrochlorothiazide,1
+diabetes,magnesium sulphate,0
+hypertension,bimatoprost + timolol,1
+hypertension,telmisartan + indapamide,1
+diabetes,dapagliflozin,1
+diabetes,hydroxychloroquine,1
+hypertension,chlorthalidone + metoprolol succinate + cilnidipine,1
+hypertension,ambrisentan,1
+hypertension,spironolactone,1
+diabetes,efonidipine,0
+hypertension,ramipril,1
+hypertension,dulaglutide,0
+hypertension,telmisartan + atorvastatin,1
+hypertension,teneligliptin,0
+diabetes,losartan + chlorthalidone,0
+hypertension,glibenclamide + metformin + pioglitazone,0
+hypertension,pioglitazone,0
+hypertension,fimasartan,1
+diabetes,amlodipine + metoprolol succinate,0
+diabetes,saxagliptin + dapagliflozin,1
+diabetes,metformin + teneligliptin,1
+hypertension,losartan + amlodipine + hydrochlorothiazide,1
+diabetes,metformin + vildagliptin,1
+hypertension,s-amlodipine + telmisartan,1
+diabetes,glimepiride + metformin + voglibose,1
+diabetes,timolol,0
+hypertension,repaglinide + voglibose,0
+hypertension,linagliptin,0
+hypertension,losartan + amlodipine + chlorthalidone,1
+hypertension,insulin glargine,0
+hypertension,nebivolol + hydrochlorothiazide,1
+diabetes,telmisartan + amlodipine + chlorthalidone,0
+hypertension,atenolol + hydrochlorothiazide,1
+hypertension,canagliflozin + metformin,0
+hypertension,metformin + vildagliptin,0
+hypertension,valsartan + hydrochlorothiazide,1
+diabetes,canagliflozin + metformin,1
+diabetes,nebivolol + hydrochlorothiazide,0
+hypertension,insulin isophane,0
+hypertension,bosentan,1
+diabetes,atenolol + lercanidipine,0
+hypertension,gliclazide + metformin,0
+hypertension,glibenclamide + metformin + pioglitazone,0
+hypertension,atenolol + lercanidipine,1
+diabetes,telmisartan + amlodipine + chlorthalidone,0
+diabetes,insulin isophane/nph + human insulin/soluble insulin,1
+diabetes,spironolactone,0
+hypertension,nebivolol + amlodipine,1
+hypertension,voglibose + metformin + gliclazide,0
+hypertension,telmisartan + metoprolol succinate,1
+hypertension,hydrochlorothiazide + olmesartan medoxomil,1
+hypertension,insulin detemir,0
+diabetes,losartan + chlorthalidone,0
+hypertension,cilnidipine + chlorthalidone,1
+hypertension,lercanidipine,1
+hypertension,alogliptin,0
+hypertension,olmesartan medoxomil + metoprolol succinate,1
+hypertension,glibenclamide,0
+diabetes,teneligliptin,1
+hypertension,linagliptin,0
+hypertension,lisinopril,1
+hypertension,brinzolamide,1
+hypertension,voglibose,0
+diabetes,nebivolol + amlodipine,0
+diabetes,liraglutide,1
+hypertension,metformin + linagliptin,0
+hypertension,verapamil,1
+diabetes,chlorthalidone + metoprolol succinate + cilnidipine,0
+diabetes,losartan + amlodipine,0
+hypertension,glipizide + metformin,0
+hypertension,insulin lispro,0
+hypertension,metoprolol succinate + hydrochlorothiazide,1
+hypertension,travoprost,1
+diabetes,telmisartan + chlorthalidone,0
+hypertension,sitagliptin + metformin,0
+diabetes,cilnidipine + metoprolol succinate,0
+diabetes,remogliflozin etabonate,1
+hypertension,insulin glargine,0
+hypertension,amlodipine + lisinopril,1
+hypertension,repaglinide + voglibose,0
+diabetes,efonidipine,0
+diabetes,amlodipine + atorvastatin,0
+hypertension,nebivolol + s-amlodipine,1
+hypertension,saxagliptin + metformin,0
+hypertension,sildenafil,1
+hypertension,atenolol + losartan,1
+hypertension,insulin isophane,0
+hypertension,nebivolol + telmisartan,1
+diabetes,lisinopril + hydrochlorothiazide,0
+hypertension,enalapril + hydrochlorothiazide,1
+diabetes,metformin + methylcobalamin,1
+hypertension,dulaglutide,0
+hypertension,evogliptin,0
+diabetes,brinzolamide,0
+hypertension,telmisartan + chlorthalidone,1
+diabetes,olmesartan medoxomil + metoprolol succinate,0
+hypertension,latanoprost,1
+hypertension,diltiazem,1
+hypertension,clonidine + hydrochlorothiazide,1
+hypertension,cilnidipine + metoprolol succinate,1
+hypertension,magnesium sulphate,1
+hypertension,insulin lispro,0
+hypertension,insulin detemir,0
+hypertension,empagliflozin + linagliptin,0
+hypertension,insulin degludec,0
+diabetes,glimepiride + metformin + vitamin d,1
+diabetes,losartan,0
+hypertension,amlodipine + metoprolol succinate,1
+hypertension,betaxolol,1
+hypertension,teneligliptin,0
+hypertension,metoprolol succinate,1
+hypertension,empagliflozin,0
+hypertension,empagliflozin,0
+hypertension,enalapril,1
+hypertension,vildagliptin,0
+hypertension,cilnidipine + metoprolol succinate + telmisartan,1
+hypertension,metformin,0
+hypertension,metformin + linagliptin,0
+hypertension,indapamide,1
+hypertension,empagliflozin + metformin,0
+hypertension,olmesartan medoxomil + cilnidipine + chlorthalidone,1
+hypertension,clonidine,1
+hypertension,pioglitazone + metformin,0
+diabetes,nebivolol,0
+hypertension,doxazosin,1
+hypertension,canagliflozin + metformin,0
+hypertension,glimepiride + metformin + pioglitazone,0
+hypertension,glipizide + metformin,0
+diabetes,macitentan,0
+hypertension,insulin isophane/nph + human insulin/soluble insulin,0
+diabetes,sitagliptin,1
+diabetes,propranolol,0
+hypertension,voglibose + metformin + gliclazide,0
+hypertension,gliclazide,0
+hypertension,glipizide,0
+diabetes,telmisartan + metoprolol succinate,0
+hypertension,insulin aspart,0
+hypertension,timolol,1
+hypertension,dapagliflozin,0
+hypertension,glipizide + metformin,0
+hypertension,empagliflozin + metformin,0
+hypertension,losartan,1
+hypertension,metolazone,1
+hypertension,alogliptin,0
+diabetes,sitagliptin + metformin,1
+hypertension,acarbose + metformin,0
+hypertension,hydroxychloroquine,0
+hypertension,insulin isophane/nph + human insulin/soluble insulin,0
+hypertension,sitagliptin,0
+hypertension,macitentan,1
+diabetes,telmisartan + hydrochlorothiazide,0
+diabetes,gliclazide + metformin,1
+hypertension,dulaglutide,0
+hypertension,insulin degludec,0
+hypertension,insulin isophane,0
+diabetes,atorvastatin + ramipril + metoprolol succinate,0
+hypertension,lisinopril + hydrochlorothiazide,1
+hypertension,glipizide + metformin,0
+hypertension,ambrisentan + tadalafil,1
+hypertension,linagliptin,0
+hypertension,telmisartan,1
+hypertension,metoprolol succinate + chlorthalidone,1
+diabetes,timolol,0
+diabetes,nebivolol + s-amlodipine,0
+hypertension,metformin + linagliptin,0
+hypertension,nebivolol + indapamide,1
+diabetes,metformin + alpha lipoic acid,1
+diabetes,metoprolol tartrate,0
+diabetes,glipizide,1
+diabetes,vildagliptin,1
+diabetes,timolol + latanoprost,0
+hypertension,insulin lispro + insulin lispro protamine,0
+hypertension,telmisartan + amlodipine,1
+hypertension,teneligliptin,0
+diabetes,moxonidine,0
+diabetes,amlodipine + enalapril,0
+hypertension,dorzolamide + timolol,1
+hypertension,torasemide,1
+hypertension,canagliflozin,0
+diabetes,minoxidil,0
+hypertension,telmisartan + rosuvastatin,1
+hypertension,glipizide,0
+diabetes,ambrisentan + tadalafil,0
+hypertension,tadalafil,1
+hypertension,insulin isophane/nph + human insulin/soluble insulin,0
+diabetes,glibenclamide + metformin + pioglitazone,1
+diabetes,voglibose,1
+hypertension,metformin + voglibose,0
+diabetes,atenolol + hydrochlorothiazide,0
+hypertension,atenolol + indapamide,1
+hypertension,sitagliptin + metformin,0
+hypertension,timolol + pilocarpine,1
+hypertension,glipizide,0
+hypertension,glimepiride + metformin + voglibose,0
+hypertension,canagliflozin,0
+diabetes,enalapril + hydrochlorothiazide,0
+hypertension,acarbose,0
+diabetes,olmesartan medoxomil + amlodipine,0
+hypertension,ripasudil,1
+hypertension,bisoprolol + hydrochlorothiazide,1
+diabetes,bisoprolol + hydrochlorothiazide,0
+hypertension,insulin degludec,0
+hypertension,terazosin,1
+hypertension,eplerenone,1
