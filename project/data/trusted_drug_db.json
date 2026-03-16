@@ -1,0 +1,26 @@
+{
+  "diabetes": [
+    "metformin",
+    "glimepiride",
+    "voglibose",
+    "pioglitazone",
+    "sitagliptin",
+    "gliclazide",
+    "glipizide",
+    "insulin",
+    "empagliflozin",
+    "dapagliflozin"
+  ],
+  "hypertension": [
+    "amlodipine",
+    "losartan",
+    "telmisartan",
+    "atenolol",
+    "chlorthalidone",
+    "olmesartan",
+    "valsartan",
+    "nebivolol",
+    "ramipril",
+    "enalapril"
+  ]
+}

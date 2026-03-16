@@ -1,0 +1,9 @@
+diabetes | metformin
+diabetes | glimepiride
+diabetes | amlodipine
+hypertension | amlodipine
+hypertension | losartan
+hypertension | metformin
+diabetes | voglibose
+hypertension | telmisartan
+diabetes | propranolol

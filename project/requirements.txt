@@ -1,6 +1,8 @@
-﻿pandas
+pandas
 numpy
 scikit-learn
 joblib
 matplotlib
 seaborn
+easyocr
+streamlit
