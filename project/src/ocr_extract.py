@@ -4,6 +4,12 @@ from typing import List
 
 import easyocr
 
+# Prevent Windows console UnicodeEncodeError (e.g. progress bars with █)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # Allow importing from src when run as: python src/ocr_extract.py
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 

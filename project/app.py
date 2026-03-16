@@ -1,5 +1,6 @@
 import os
 import pickle
+import sys
 from typing import List
 
 import easyocr
@@ -7,6 +8,12 @@ import streamlit as st
 
 from src.prescription_parser import extract_drugs_from_text
 from src.verify_drug import verify_with_trusted_source
+
+# Prevent Windows console UnicodeEncodeError (e.g. progress bars with █)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 
 @st.cache_resource
